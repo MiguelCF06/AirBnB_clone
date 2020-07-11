@@ -8,8 +8,8 @@ header {
 }
 
 .ima {
-    width: 122px;
+    width: 152px;
     height: 60px;
     padding-left: 20px;
-    background-image: url("../images/logo.png");
+    background: url("../images/logo.png") no-repeat center;
 }
